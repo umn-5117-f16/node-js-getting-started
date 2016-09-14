@@ -10,7 +10,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 $ # change YYYYYYYYYYY to reflect the name of your repo
-$ git clone git clone git@github.com:umn-5117-f16/lab-3-heroku-deploy-YYYYYYYYYYY
+$ git clone git@github.com:umn-5117-f16/lab-3-heroku-deploy-YYYYYYYYYYY
 $ cd lab-3-heroku-deploy-YYYYYYYYYYY
 $ npm install
 $ npm start
