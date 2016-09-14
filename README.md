@@ -9,8 +9,9 @@ This application supports the [Getting Started with Node on Heroku](https://devc
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:MY_REPOSITORY
-$ cd node-js-getting-started
+$ # change YYYYYYYYYYY to reflect the name of your repo
+$ git clone git clone git@github.com:umn-5117-f16/lab-3-heroku-deploy-YYYYYYYYYYY
+$ cd lab-3-heroku-deploy-YYYYYYYYYYY
 $ npm install
 $ npm start
 ```
